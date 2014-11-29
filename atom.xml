@@ -4,7 +4,7 @@
   <title><![CDATA[Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-11-29T18:23:15-05:00</updated>
+  <updated>2014-11-29T18:31:14-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Maximizing Productivity]]></title>
+    <link href="http://bro-kaizen.github.io/blog/2014/11/29/maximizing-productivity/"/>
+    <updated>2014-11-29T18:27:21-05:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2014/11/29/maximizing-productivity</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
