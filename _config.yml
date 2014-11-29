@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://bro-kaizen.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Bro Kaizen.
+subtitle: I am always a beginner.
+author: bro_kaizen
 simple_search: https://www.google.com/search
-description:
+description: Real talk.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
