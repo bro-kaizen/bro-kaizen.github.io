@@ -1,14 +1,23 @@
 ---
 layout: page
-title: "about"
-date: 2014-11-29 17:11
+title: "About"
 comments: false
 sharing: false
-footer: true
+footer: false
 ---
 
-Q: What is this?
-A: A blog about life improvement, directed practice, and unconventional political positions. Real talk.
+**Q:** What is this?
 
-Who are you?
-A: Yes.
+**A:** This is a blog about self improvement, modern life, and unconventional political positions. Strictly real talk.
+
+
+
+**Q:** What does "Bro Kaizen" mean?
+
+**A:** "Bro" is used here in the American sense of "frat bro," and "kaizen" is used in the Japanese sense, ie. "continual improvement" _a la_ Toyota. 
+
+
+
+**Q:** Who are you?
+
+**A:** Yes.
