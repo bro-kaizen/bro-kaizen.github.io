@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Foundations | Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/blog/categories/foundations/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-11-30T14:06:10-05:00</updated>
+  <updated>2014-11-30T14:09:22-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -66,7 +66,7 @@
   <li>DP is difficult</li>
 </ul>
 
-<p>In a way, DP is a method for standardizing disparate problem domains. Rather than discovering a new meta-method for every sphere of your life, you can try to make the problem fit a DP shaped mold. Do you need to learn node.js for a project at work? </p>
+<p>In a way, DP is a method for standardizing disparate problem domains. Rather than discovering a new meta-method for improvements in each sphere of your life, you can try to make the problem fit a DP shaped mold. If you need to learn node.js for a project at work, you might read about DP and then try to approach the problem like this: </p>
 
 <ul>
   <li>Find a practice problem that you can solve in Node
