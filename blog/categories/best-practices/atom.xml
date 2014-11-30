@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Best Practices | Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/blog/categories/best-practices/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-11-30T15:18:43-05:00</updated>
+  <updated>2014-11-30T15:19:13-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -19,6 +19,8 @@
     <updated>2014-11-18T14:31:02-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/18/instruction-in-natural-language</id>
     <content type="html"><![CDATA[<p>In many college classes and in the knowledge-work industry, you will be required to learn new material from a book. Very likely you will be assigned some reading on the topic, and this reading will probably be from an eminent and respectable tome. When people see you carrying around that tome, or reading it on the tube, they will be quite impressed by your powerful brain. But there’s one large drawback.</p>
+
+<!--more-->
 
 <p>Surround your pullquote like this {&#8221; text to be quoted &#8220;}</p>
 
