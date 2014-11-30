@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Deliberate Practice | Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/blog/categories/deliberate-practice/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-11-29T23:28:38-05:00</updated>
+  <updated>2014-11-29T23:43:03-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -15,10 +15,13 @@
   
   <entry>
     <title type="html"><![CDATA[Husbanding Your Gumption for Deliberate Practice]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/29/deliberate-practice/"/>
-    <updated>2014-11-29T22:11:59-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/29/deliberate-practice</id>
+    <link href="http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice/"/>
+    <updated>2014-11-14T22:11:59-05:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice</id>
     <content type="html"><![CDATA[<p>If you&rsquo;re overweight, you don&rsquo;t earn physical fitness by spending three days doing a cardio circuit with your roomate, two days following a diet that your girlfriend invented, four days with Mark Rippetoe&rsquo;s <a href="http://en.wikipedia.org/wiki/Mark_Rippetoe">Starting Strength</a>, and then going to sit on the couch. A piecemeal (and half-heartedly implemented) approach like that is <strong>destined to fail.</strong></p>
+
+<!--more-->
+
 
 <p>A much better approach is &ldquo;deliberate practice,&rdquo; a term that I have shamelessly stolen from <a href="http://en.wikipedia.org/wiki/Geoffrey_Colvin">Geoff Colvin</a>, <a href="http://jamesclear.com/deliberate-practice">James Clear</a>, and <a href="http://www.artofmanliness.com/2010/11/07/the-secret-of-great-men-deliberate-practice/">others</a>.</p>
 
@@ -30,7 +33,7 @@
 <li>DP involves breaking complex tasks down into tiny, mechanical chunks that <a href="/things-that-take-no-talent">require no talent</a> ie. 1) Sit in your chair in a silent room, 2) load Rosetta Stone software, 3) Repeat Pashto phrases back to the computer for 1 hour, etc. Each of those could easily be done by a very stupid person, who would balk utterly if I commanded him to &ldquo;Learn Pashto!&rdquo;</li>
 <li>DP is goal driven, ie. is working towards some objective (bowling 70 km per hour in cricket consistently/learning 100 Pashto words per week/whatever)</li>
 <li>DP is repeatable, ie. you can come back tomorrow and learn more Pashto vocabulary using the same (sit >> load software >> repeat words) algorithm as you used today</li>
-<li>DP involves a tight iterative feedback loop, where good or bad outcomes are connected to your actions in near real time</li>
+<li>DP involves a tight iterative feedback loop, where good or bad outcomes are connected to your actions in near real time. For example, the Rosetta Stone software will grade your pronunciation as soon as you finish talking.</li>
 <li>DP is difficult</li>
 </ul>
 

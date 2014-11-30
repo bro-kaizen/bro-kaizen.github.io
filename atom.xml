@@ -4,7 +4,7 @@
   <title><![CDATA[Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-11-29T23:28:38-05:00</updated>
+  <updated>2014-11-29T23:43:03-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -15,57 +15,42 @@
   
   <entry>
     <title type="html"><![CDATA[Husbanding Your Gumption for Deliberate Practice]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/29/deliberate-practice/"/>
-    <updated>2014-11-29T22:11:59-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/29/deliberate-practice</id>
+    <link href="http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice/"/>
+    <updated>2014-11-14T22:11:59-05:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice</id>
     <content type="html"><![CDATA[<p>If you&rsquo;re overweight, you don&rsquo;t earn physical fitness by spending three days doing a cardio circuit with your roomate, two days following a diet that your girlfriend invented, four days with Mark Rippetoe&rsquo;s <a href="http://en.wikipedia.org/wiki/Mark_Rippetoe">Starting Strength</a>, and then going to sit on the couch. A piecemeal (and half-heartedly implemented) approach like that is <strong>destined to fail.</strong></p>
 
-<p>A much better approach is &ldquo;deliberate practice,&rdquo; a term that I have shamelessly stolen from <a href="http://en.wikipedia.org/wiki/Geoffrey_Colvin">Geoff Colvin</a>, <a href="http://jamesclear.com/deliberate-practice">James Clear</a>, and <a href="http://www.artofmanliness.com/2010/11/07/the-secret-of-great-men-deliberate-practice/">others</a>.</p>
-
-<p>Deliberate practice has been exhaustively defined and elaborated upon elsewhere (there are literally books written on the topic&mdash;follow those links above!) so it wouldn&rsquo;t make sense to beat a dead horse here. Suffice it to say that deliberate practice is something you must do in order to achieve time-efficient improvements in whatever fields are relevant to your life. In fact, participating in deliberate practice is such a strong predictor of success in a variety of athletic and intellectual fields (even chess!) that it has been called an &ldquo;unfair advantage.&rdquo; Needless to say, at this blog, we try to deploy the maximum possible quantity of unfair advantages in your favor.</p>
-
-<p>Let&rsquo;s construct a short working definition of deliberate practice by examining its attributes:</p>
-
-<ul>
-<li>DP involves breaking complex tasks down into tiny, mechanical chunks that <a href="http://bro-kaizen.github.io/things-that-take-no-talent">require no talent</a> ie. 1) Sit in your chair in a silent room, 2) load Rosetta Stone software, 3) Repeat Pashto phrases back to the computer for 1 hour, etc. Each of those could easily be done by a very stupid person, who would balk utterly if I commanded him to &ldquo;Learn Pashto!&rdquo;</li>
-<li>DP is goal driven, ie. is working towards some objective (bowling 70 km per hour in cricket consistently/learning 100 Pashto words per week/whatever)</li>
-<li>DP is repeatable, ie. you can come back tomorrow and learn more Pashto vocabulary using the same (sit >> load software >> repeat words) algorithm as you used today</li>
-<li>DP involves a tight iterative feedback loop, where good or bad outcomes are connected to your actions in near real time</li>
-<li>DP is difficult</li>
-</ul>
-
-
-<p>This last point is most relevant to this post.
-DP has 2 inputs:</p>
-
-<ol>
-<li>Time</li>
-<li>Gumption</li>
-</ol>
-
-
-<p>Therefore you must husband your gumption reserves, protect them from depletion on stupid things, and instead expend them solely on deliberate practice.</p>
-
-<p>Ultimately this is a post about building a system where the desireable outcomes happen by default. Design a trip to the gym into your day by signing up for one that is between your house and job. Put a pullup bar in your bathroom door so you end up doing a few reps on your way to the shower. Pay your buddy to hold your wallet and phone until you complete your 1 hour of Russian language practice.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Growth Mentality]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/29/growth-mentality/"/>
-    <updated>2014-11-29T22:06:36-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/29/growth-mentality</id>
+    <link href="http://bro-kaizen.github.io/blog/2014/11/12/growth-mentality/"/>
+    <updated>2014-11-12T22:06:36-05:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2014/11/12/growth-mentality</id>
     <content type="html"><![CDATA[<p>Out of the box, you will suck at a lot of things. It is your job to regard this as a temporary state of affairs <em>that you can consciously take steps to fix</em>.</p>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[What's the Point of This Blog?]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/29/whats-the-point-of-this-blog/"/>
-    <updated>2014-11-29T19:48:24-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/29/whats-the-point-of-this-blog</id>
-    <content type="html"><![CDATA[<p>This blog serves a couple purposes.</p>
+    <title type="html"><![CDATA[Maximizing Productivity]]></title>
+    <link href="http://bro-kaizen.github.io/blog/2014/11/11/maximizing-productivity/"/>
+    <updated>2014-11-11T18:27:21-05:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2014/11/11/maximizing-productivity</id>
+    <content type="html"><![CDATA[<p>Napoleon said something like (paraphrasing aggressively here), &ldquo;The results of every battle are determined ahead of time by the geography, weather, and factors pertaining to the supply of war <em>materiel</em>.&rdquo;</p>
+
+<p>This notion of meta-factors&#8217; outsized importance also applies to studying, especially in college.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Raison D'être]]></title>
+    <link href="http://bro-kaizen.github.io/blog/2014/11/10/whats-the-point-of-this-blog/"/>
+    <updated>2014-11-10T19:48:24-05:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2014/11/10/whats-the-point-of-this-blog</id>
+    <content type="html"><![CDATA[<p>This blog serves several purposes:</p>
 
 <ul>
 <li>I&rsquo;m hoping to get new ideas by writing short essays, following Paul Graham&rsquo;s (persuasive) <a href="http://www.paulgraham.com/writing44.html">claim</a> that</li>
@@ -77,27 +62,6 @@ DP has 2 inputs:</p>
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Maximizing Productivity]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/29/maximizing-productivity/"/>
-    <updated>2014-11-29T18:27:21-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/29/maximizing-productivity</id>
-    <content type="html"><![CDATA[<p>Napoleon said something like (paraphrasing aggressively here), &ldquo;The results of every battle are determined ahead of time by the geography, weather, and factors pertaining to the supply of war <em>materiel</em>.&rdquo;</p>
-
-<p>This notion of meta-factors&#8217; outsized importance also applies to studying, especially in college.</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/29/hello-world/"/>
-    <updated>2014-11-29T16:39:30-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/29/hello-world</id>
-    <content type="html"><![CDATA[<p>Foobar. Hello world.</p>
 ]]></content>
   </entry>
   

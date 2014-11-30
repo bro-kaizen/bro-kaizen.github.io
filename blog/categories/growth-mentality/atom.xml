@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Best Practices | Bro Kaizen]]></title>
-  <link href="http://bro-kaizen.github.io/blog/categories/best-practices/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Growth Mentality | Bro Kaizen]]></title>
+  <link href="http://bro-kaizen.github.io/blog/categories/growth-mentality/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
   <updated>2014-11-29T23:43:03-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
@@ -12,46 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Husbanding Your Gumption for Deliberate Practice]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice/"/>
-    <updated>2014-11-14T22:11:59-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice</id>
-    <content type="html"><![CDATA[<p>If you&rsquo;re overweight, you don&rsquo;t earn physical fitness by spending three days doing a cardio circuit with your roomate, two days following a diet that your girlfriend invented, four days with Mark Rippetoe&rsquo;s <a href="http://en.wikipedia.org/wiki/Mark_Rippetoe">Starting Strength</a>, and then going to sit on the couch. A piecemeal (and half-heartedly implemented) approach like that is <strong>destined to fail.</strong></p>
-
-<!--more-->
-
-
-<p>A much better approach is &ldquo;deliberate practice,&rdquo; a term that I have shamelessly stolen from <a href="http://en.wikipedia.org/wiki/Geoffrey_Colvin">Geoff Colvin</a>, <a href="http://jamesclear.com/deliberate-practice">James Clear</a>, and <a href="http://www.artofmanliness.com/2010/11/07/the-secret-of-great-men-deliberate-practice/">others</a>.</p>
-
-<p>Deliberate practice has been exhaustively defined and elaborated upon elsewhere (there are literally books written on the topic&mdash;follow those links above!) so it wouldn&rsquo;t make sense to beat a dead horse here. Suffice it to say that deliberate practice is something you must do in order to achieve time-efficient improvements in whatever fields are relevant to your life. In fact, participating in deliberate practice is such a strong predictor of success in a variety of athletic and intellectual fields (even chess!) that it has been called an &ldquo;unfair advantage.&rdquo; Needless to say, at this blog, we try to deploy the maximum possible quantity of unfair advantages in your favor.</p>
-
-<p>Let&rsquo;s construct a short working definition of deliberate practice by examining its attributes:</p>
-
-<ul>
-<li>DP involves breaking complex tasks down into tiny, mechanical chunks that <a href="/things-that-take-no-talent">require no talent</a> ie. 1) Sit in your chair in a silent room, 2) load Rosetta Stone software, 3) Repeat Pashto phrases back to the computer for 1 hour, etc. Each of those could easily be done by a very stupid person, who would balk utterly if I commanded him to &ldquo;Learn Pashto!&rdquo;</li>
-<li>DP is goal driven, ie. is working towards some objective (bowling 70 km per hour in cricket consistently/learning 100 Pashto words per week/whatever)</li>
-<li>DP is repeatable, ie. you can come back tomorrow and learn more Pashto vocabulary using the same (sit >> load software >> repeat words) algorithm as you used today</li>
-<li>DP involves a tight iterative feedback loop, where good or bad outcomes are connected to your actions in near real time. For example, the Rosetta Stone software will grade your pronunciation as soon as you finish talking.</li>
-<li>DP is difficult</li>
-</ul>
-
-
-<p>This last point is most relevant to this post.
-DP has 2 inputs:</p>
-
-<ol>
-<li>Time</li>
-<li>Gumption</li>
-</ol>
-
-
-<p>Therefore you must husband your gumption reserves, protect them from depletion on stupid things, and instead expend them solely on deliberate practice.</p>
-
-<p>Ultimately this is a post about building a system where the desireable outcomes happen by default. Design a trip to the gym into your day by signing up for one that is between your house and job. Put a pullup bar in your bathroom door so you end up doing a few reps on your way to the shower. Pay your buddy to hold your wallet and phone until you complete your 1 hour of Russian language practice.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Growth Mentality]]></title>
@@ -94,26 +54,6 @@ DP has 2 inputs:</p>
 <p>And a funny thing happens as time passes. Before long, the technical advantages of careful study, coachability, and the &ldquo;I am a beginner&rdquo; mindset have compounded. The large children, the former stars, are still performing at the same level of fundamentals as they were three seasons ago, and their output has risen slightly, perhaps linearly, as they develop musculature and coordination. But some of the little guys are starting to reach the &ldquo;hockey stick&rdquo; region of their player-development curve, and in the space of a few months they can develop into extremely performant players. Invariably, the most valuable players on an Upper Sixth form cricket team&mdash;around 18 years of age&mdash;are either A) in the 1% of most physically gifted athletes or B) extremely coachable former weaklings. Needless to say, the intersection of A and B is where great bowlers are made. But one cannot change one&rsquo;s innate talents, and since this is a blog about self-actualization, it is best to focus on the latter case for all practical purposes.</p>
 
 <p>At any rate, the moral of the story is that in childrens&#8217; cricket and many other fields, dilligence and malleability trump inborn talent and static advantages. It behooves you to behave like the scrappy little guy, and to avoid at any cost the mentality and behavior of the stagnant former starring batsmen. And furthermore, I suggest that you carefully direct your efforts at self improvement, perhaps by reading the <a href="/on-practicing-deliberately">deliberate practice page</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Maximizing Productivity]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/11/maximizing-productivity/"/>
-    <updated>2014-11-11T18:27:21-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/11/maximizing-productivity</id>
-    <content type="html"><![CDATA[<p>Napoleon said something like (paraphrasing aggressively here), &ldquo;The results of every battle are determined ahead of time by the geography, weather, and factors pertaining to the supply of war <em>materiel</em>.&rdquo;</p>
-
-<p>This notion of meta-factors&#8217; outsized importance also applies to studying, especially in college.</p>
-
-<!--more-->
-
-
-<p>When you are studying hard, your brain will become attuned to small details. It is best to point this detail-oriented focus at the text you&rsquo;re trying to learn, such as Andrew Ng&rsquo;s <a href="http://www.holehouse.org/mlclass/">Machine Learning course</a> or one of my personal favorite MOOC&rsquo;s, <em>The Theory and Practice of Dodge Diesel Truck Repair for Strongly Heteronormative Men.</em></p>
-
-<p>In most candidate study locations, there will be a million small distractions that, when compounded, will significantly diminish your focus. Do not waste your mental <em>oomph</em> on small blinking lights on the back of an HP Elitebook&rsquo;s NIC, loud IT managers, people walking in your field of view, etc. It is <em>so important</em> to find somewhere with very few audiovisual distractions, where you know you can be productive.</p>
-
-<p>Instead of taking the first seat in the library that comes into view, you ought to find the single canonically best place to study, and then study there every single time.</p>
 ]]></content>
   </entry>
   
