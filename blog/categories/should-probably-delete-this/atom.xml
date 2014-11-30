@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Should-probably-delete-this | Bro Kaizen]]></title>
+  <link href="http://bro-kaizen.github.io/blog/categories/should-probably-delete-this/atom.xml" rel="self"/>
+  <link href="http://bro-kaizen.github.io/"/>
+  <updated>2014-11-29T20:22:56-05:00</updated>
+  <id>http://bro-kaizen.github.io/</id>
+  <author>
+    <name><![CDATA[bro_kaizen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://bro-kaizen.github.io/blog/2014/11/29/hello-world/"/>
+    <updated>2014-11-29T16:39:30-05:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2014/11/29/hello-world</id>
+    <content type="html"><![CDATA[<p>Foobar. Hello world.</p>
+]]></content>
+  </entry>
+  
+</feed>
