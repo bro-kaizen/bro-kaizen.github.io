@@ -4,7 +4,7 @@
   <title><![CDATA[Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-11-29T23:43:03-05:00</updated>
+  <updated>2014-11-30T01:03:54-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -14,11 +14,21 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Husbanding Your Gumption for Deliberate Practice]]></title>
+    <title type="html"><![CDATA[Deliberate Practice in Action]]></title>
+    <link href="http://bro-kaizen.github.io/blog/2014/11/15/a-pithy-example-of-deliberate-practice/"/>
+    <updated>2014-11-15T00:46:52-05:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2014/11/15/a-pithy-example-of-deliberate-practice</id>
+    <content type="html"><![CDATA[<p>Wiser and more experienced folk than I are considering Deliberate Practice, about which I began <a href="(/blog/2014/11/14/deliberate-practice/)">harping</a> earlier this week. Here’s perhaps the pithiest example of DP I’ve ever heard described—this is the whole thing in a nutshell.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Deliberate Practice]]></title>
     <link href="http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice/"/>
     <updated>2014-11-14T22:11:59-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice</id>
-    <content type="html"><![CDATA[<p>If you&rsquo;re overweight, you don&rsquo;t earn physical fitness by spending three days doing a cardio circuit with your roomate, two days following a diet that your girlfriend invented, four days with Mark Rippetoe&rsquo;s <a href="http://en.wikipedia.org/wiki/Mark_Rippetoe">Starting Strength</a>, and then going to sit on the couch. A piecemeal (and half-heartedly implemented) approach like that is <strong>destined to fail.</strong></p>
+    <content type="html"><![CDATA[<p>If you’re overweight, you don’t earn physical fitness by spending three days doing a cardio circuit with your roomate, two days following a diet that your girlfriend invented, four days with Mark Rippetoe’s <a href="http://en.wikipedia.org/wiki/Mark_Rippetoe">Starting Strength</a>, and then going to sit on the couch. A piecemeal (and half-heartedly implemented) approach like that is <strong>destined to fail.</strong> </p>
 
 ]]></content>
   </entry>
@@ -28,7 +38,7 @@
     <link href="http://bro-kaizen.github.io/blog/2014/11/12/growth-mentality/"/>
     <updated>2014-11-12T22:06:36-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/12/growth-mentality</id>
-    <content type="html"><![CDATA[<p>Out of the box, you will suck at a lot of things. It is your job to regard this as a temporary state of affairs <em>that you can consciously take steps to fix</em>.</p>
+    <content type="html"><![CDATA[<p>Out of the box, you will suck at a lot of things. It is your job to regard this as a temporary state of affairs <em>that you can consciously take steps to fix</em>. </p>
 
 ]]></content>
   </entry>
@@ -38,9 +48,9 @@
     <link href="http://bro-kaizen.github.io/blog/2014/11/11/maximizing-productivity/"/>
     <updated>2014-11-11T18:27:21-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/11/maximizing-productivity</id>
-    <content type="html"><![CDATA[<p>Napoleon said something like (paraphrasing aggressively here), &ldquo;The results of every battle are determined ahead of time by the geography, weather, and factors pertaining to the supply of war <em>materiel</em>.&rdquo;</p>
+    <content type="html"><![CDATA[<p>Napoleon said something like (paraphrasing aggressively here), “The results of every battle are determined ahead of time by the geography, weather, and factors pertaining to the supply of war <em>materiel</em>.” </p>
 
-<p>This notion of meta-factors&#8217; outsized importance also applies to studying, especially in college.</p>
+<p>This notion of meta-factors’ outsized importance also applies to studying, especially in college.</p>
 
 ]]></content>
   </entry>
@@ -53,14 +63,10 @@
     <content type="html"><![CDATA[<p>This blog serves several purposes:</p>
 
 <ul>
-<li>I&rsquo;m hoping to get new ideas by writing short essays, following Paul Graham&rsquo;s (persuasive) <a href="http://www.paulgraham.com/writing44.html">claim</a> that</li>
+  <li>I’m hoping to get new ideas by writing short essays, following Paul Graham’s (persuasive) <a href="http://www.paulgraham.com/writing44.html">claim</a> that </li>
 </ul>
 
-
 <blockquote><p>&#8220;Writing doesn&#8217;t just communicate ideas; it generates them. If you&#8217;re bad at writing and don&#8217;t like to do it, you&#8217;ll miss out on most of the ideas writing would have generated.&#8221;</p></blockquote>
-
-
-
 
 ]]></content>
   </entry>
