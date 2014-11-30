@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Bro Kaizen]]></title>
-  <link href="http://bro-kaizen.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Deliberate Practice | Bro Kaizen]]></title>
+  <link href="http://bro-kaizen.github.io/blog/categories/deliberate-practice/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
   <updated>2014-11-29T23:28:38-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
@@ -27,7 +27,7 @@
 <p>Let&rsquo;s construct a short working definition of deliberate practice by examining its attributes:</p>
 
 <ul>
-<li>DP involves breaking complex tasks down into tiny, mechanical chunks that <a href="http://bro-kaizen.github.io/things-that-take-no-talent">require no talent</a> ie. 1) Sit in your chair in a silent room, 2) load Rosetta Stone software, 3) Repeat Pashto phrases back to the computer for 1 hour, etc. Each of those could easily be done by a very stupid person, who would balk utterly if I commanded him to &ldquo;Learn Pashto!&rdquo;</li>
+<li>DP involves breaking complex tasks down into tiny, mechanical chunks that <a href="/things-that-take-no-talent">require no talent</a> ie. 1) Sit in your chair in a silent room, 2) load Rosetta Stone software, 3) Repeat Pashto phrases back to the computer for 1 hour, etc. Each of those could easily be done by a very stupid person, who would balk utterly if I commanded him to &ldquo;Learn Pashto!&rdquo;</li>
 <li>DP is goal driven, ie. is working towards some objective (bowling 70 km per hour in cricket consistently/learning 100 Pashto words per week/whatever)</li>
 <li>DP is repeatable, ie. you can come back tomorrow and learn more Pashto vocabulary using the same (sit >> load software >> repeat words) algorithm as you used today</li>
 <li>DP involves a tight iterative feedback loop, where good or bad outcomes are connected to your actions in near real time</li>
@@ -47,57 +47,6 @@ DP has 2 inputs:</p>
 <p>Therefore you must husband your gumption reserves, protect them from depletion on stupid things, and instead expend them solely on deliberate practice.</p>
 
 <p>Ultimately this is a post about building a system where the desireable outcomes happen by default. Design a trip to the gym into your day by signing up for one that is between your house and job. Put a pullup bar in your bathroom door so you end up doing a few reps on your way to the shower. Pay your buddy to hold your wallet and phone until you complete your 1 hour of Russian language practice.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Growth Mentality]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/29/growth-mentality/"/>
-    <updated>2014-11-29T22:06:36-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/29/growth-mentality</id>
-    <content type="html"><![CDATA[<p>Out of the box, you will suck at a lot of things. It is your job to regard this as a temporary state of affairs <em>that you can consciously take steps to fix</em>.</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What's the Point of This Blog?]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/29/whats-the-point-of-this-blog/"/>
-    <updated>2014-11-29T19:48:24-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/29/whats-the-point-of-this-blog</id>
-    <content type="html"><![CDATA[<p>This blog serves a couple purposes.</p>
-
-<ul>
-<li>I&rsquo;m hoping to get new ideas by writing short essays, following Paul Graham&rsquo;s (persuasive) <a href="http://www.paulgraham.com/writing44.html">claim</a> that</li>
-</ul>
-
-
-<blockquote><p>&#8220;Writing doesn&#8217;t just communicate ideas; it generates them. If you&#8217;re bad at writing and don&#8217;t like to do it, you&#8217;ll miss out on most of the ideas writing would have generated.&#8221;</p></blockquote>
-
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Maximizing Productivity]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/29/maximizing-productivity/"/>
-    <updated>2014-11-29T18:27:21-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/29/maximizing-productivity</id>
-    <content type="html"><![CDATA[<p>Napoleon said something like (paraphrasing aggressively here), &ldquo;The results of every battle are determined ahead of time by the geography, weather, and factors pertaining to the supply of war <em>materiel</em>.&rdquo;</p>
-
-<p>This notion of meta-factors&#8217; outsized importance also applies to studying, especially in college.</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://bro-kaizen.github.io/blog/2014/11/29/hello-world/"/>
-    <updated>2014-11-29T16:39:30-05:00</updated>
-    <id>http://bro-kaizen.github.io/blog/2014/11/29/hello-world</id>
-    <content type="html"><![CDATA[<p>Foobar. Hello world.</p>
 ]]></content>
   </entry>
   
