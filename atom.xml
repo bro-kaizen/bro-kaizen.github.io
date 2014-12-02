@@ -4,7 +4,7 @@
   <title><![CDATA[Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-12-02T01:16:11-05:00</updated>
+  <updated>2014-12-02T01:53:08-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Stackable Permanent Life Improvements]]></title>
+    <link href="http://bro-kaizen.github.io/blog/2014/11/19/stackable-permanent-life-improvements/"/>
+    <updated>2014-11-19T16:11:46-05:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2014/11/19/stackable-permanent-life-improvements</id>
+    <content type="html"><![CDATA[<p>Amy Chua’s <a href="http://en.wikipedia.org/wiki/Battle_Hymn_of_the_Tiger_Mother">Tiger Mother</a> book claims <em>delayed gratification</em> as one of the three invariant characteristics of high-performing immigrant populations. This is a valuable idea from a valuable book, and the notion is worth generalizing. </p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Instruction in Natural Language]]></title>
