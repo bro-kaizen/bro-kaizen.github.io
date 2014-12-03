@@ -4,7 +4,7 @@
   <title><![CDATA[Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-12-02T01:53:08-05:00</updated>
+  <updated>2014-12-03T01:35:00-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -14,11 +14,23 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Expert Instruction]]></title>
+    <link href="http://bro-kaizen.github.io/blog/2014/11/20/expert-instruction/"/>
+    <updated>2014-11-20T00:46:55-05:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2014/11/20/expert-instruction</id>
+    <content type="html"><![CDATA[<p>Directed practice is hard. Sometimes, you can cheat that difficulty by finding a reliable expert who has written a how-to guide, and following the recipe exactly. This is an extension of the notion that you should <a href="http://localhost:4000/blog/2014/11/18/instruction-in-natural-language/">find user-friendly instruction</a> if possible, and was stolen blatantly from Lyle McDonald at Body Recomposition. </p>
+
+<p>In his <a href="http://www.bodyrecomposition.com/just-do-the-program/">entertaining rant</a>, Lyle says, </p>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Stackable Permanent Life Improvements]]></title>
     <link href="http://bro-kaizen.github.io/blog/2014/11/19/stackable-permanent-life-improvements/"/>
     <updated>2014-11-19T16:11:46-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/19/stackable-permanent-life-improvements</id>
-    <content type="html"><![CDATA[<p>Amy Chua’s <a href="http://en.wikipedia.org/wiki/Battle_Hymn_of_the_Tiger_Mother">Tiger Mother</a> book claims <em>delayed gratification</em> as one of the three invariant characteristics of high-performing immigrant populations. This is a valuable idea from a valuable book, and the notion is worth generalizing. </p>
+    <content type="html"><![CDATA[<p>Amy Chua’s <a href="http://en.wikipedia.org/wiki/Battle_Hymn_of_the_Tiger_Mother">Tiger Mother</a> book claims <em>delayed gratification</em> as one of the three invariant characteristics of high-performing immigrant populations. This is right up Bro Kaizen’s alley, but I think we can generalize and improve that notion.</p>
 
 ]]></content>
   </entry>
