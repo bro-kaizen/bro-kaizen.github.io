@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Best Practices | Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/blog/categories/best-practices/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-12-03T19:56:47-05:00</updated>
+  <updated>2014-12-06T13:39:01-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -18,29 +18,32 @@
     <link href="http://bro-kaizen.github.io/blog/2014/11/20/expert-instruction/"/>
     <updated>2014-11-20T00:46:55-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/20/expert-instruction</id>
-    <content type="html"><![CDATA[<p>Directed practice is hard. Sometimes, you can cheat that difficulty by finding a reliable expert who has written a how-to guide, and following the recipe exactly. This is an extension of the notion that you should <a href="http://localhost:4000/blog/2014/11/18/instruction-in-natural-language/">find user-friendly instruction</a> if possible, and was stolen blatantly from Lyle McDonald at Body Recomposition. </p>
+    <content type="html"><![CDATA[<p>Directed practice is hard. Sometimes, you can cheat that difficulty by finding a reliable expert who has written a how-to guide, and following the recipe exactly. This is an extension of the notion that you should <a href="http://localhost:4000/blog/2014/11/18/instruction-in-natural-language/">find user-friendly instruction</a> if possible, and was stolen blatantly from Lyle McDonald at Body Recomposition.</p>
 
-<p>In his <a href="http://www.bodyrecomposition.com/just-do-the-program/">entertaining rant</a>, Lyle says, </p>
+<p>In his <a href="http://www.bodyrecomposition.com/just-do-the-program/">entertaining rant</a>, Lyle says,</p>
 
 <!--more-->
 
-<p><blockquote><p>…for the first year of training with him, I did everything he said exactly as he told me to do it.  He was the expert and regardless of what I thought I knew, I had hired him for a reason. In fact, I didn’t even know enough about ice speed skating at that point to have an opinion.  As they put it in martial arts training, I shut the hell up and swept dojo.</p></blockquote></p>
 
-<p>Often, a reliable expert’s walkthrough will essentially cause you to emulate a regimen of directed practice, but all the thinking has been done for you. So you just have to commit to walking over to your DVD player every morning and pushing play or opening the book and doing as you’re told. This is really valuable, both in the immediate sense of making gains in whatever topic you’re learning, but also in a subtler meta-sense; this “guided directed practice” builds intuition about learning new skills in the extra-curricular environment. After you do a few practice runs of learning new skills by having your hand held by the experts, you’ll get a sense of how credible instruction and steady skill building feels.</p>
+<p>{% blockquote %}
+&hellip;for the first year of training with him, I did everything he said exactly as he told me to do it.  He was the expert and regardless of what I thought I knew, I had hired him for a reason. In fact, I didn’t even know enough about ice speed skating at that point to have an opinion.  As they put it in martial arts training, I shut the hell up and swept dojo.
+{% endblockquote %}</p>
 
-<h3 id="examples-of-reliable-expert-walkthroughs-for-fitness">Examples of reliable expert walkthroughs for fitness:</h3>
+<p>Often, a reliable expert&rsquo;s walkthrough will essentially cause you to emulate a regimen of directed practice, but all the thinking has been done for you. So you just have to commit to walking over to your DVD player every morning and pushing play or opening the book and doing as you&rsquo;re told. This is really valuable, both in the immediate sense of making gains in whatever topic you&rsquo;re learning, but also in a subtler meta-sense; this &ldquo;guided directed practice&rdquo; builds intuition about learning new skills in the extra-curricular environment. After you do a few practice runs of learning new skills by having your hand held by the experts, you&rsquo;ll get a sense of how credible instruction and steady skill building feels.</p>
+
+<h3>Examples of reliable expert walkthroughs for fitness:</h3>
 
 <ul>
-  <li>Mark Rippetoe’s <a href="http://www.seriouspowerlifting.com/3409/articles/starting-strength">Starting Strength</a> book and videos (for making you strong)</li>
-  <li>The <a href="http://en.wikipedia.org/wiki/P90X">P90X</a> program of fitness DVD’s and diet (for giving you beach muscles)</li>
-  <li>Lynn McDonald’s <a href="http://www.bodyrecomposition.com">Body Recomposition</a> website (for making you skinny ripped)</li>
-  <li><a href="http://www.amazon.com/Juggling-Complete-Klutz-Anniversary-Edition/dp/1591744482">Juggling for the Complete Klutz</a></li>
+<li>Mark Rippetoe&rsquo;s <a href="http://www.seriouspowerlifting.com/3409/articles/starting-strength">Starting Strength</a> book and videos (for making you strong)</li>
+<li>The <a href="http://en.wikipedia.org/wiki/P90X">P90X</a> program of fitness DVD&rsquo;s and diet (for giving you beach muscles)</li>
+<li>Lynn McDonald&rsquo;s <a href="http://www.bodyrecomposition.com">Body Recomposition</a> website (for making you skinny ripped)</li>
+<li><a href="http://www.amazon.com/Juggling-Complete-Klutz-Anniversary-Edition/dp/1591744482">Juggling for the Complete Klutz</a></li>
 </ul>
 
-<p>Does juggling count as fitness? Definitely not. But it’s a great low-risk skill for kids, and this is the book that got me started on the growth mentality and Kaizen, so it has a special place in my heart. And it’s really, really good at teaching you how to juggle. Which is incidentally a pretty good starter skill for building momentum on the whole business of learning new things, even if you’re a grown man. </p>
 
-<p>Ultimately, borrowing experts’ ideas is a time efficient hack for discovering domain-specific best practices. When beginning a new discipline, such as fitness or juggling or whatever else, it’s almost always worth starting under the auspices of some formalized progam if possible.</p>
+<p>Does juggling count as fitness? Definitely not. But it&rsquo;s a great low-risk skill for kids, and this is the book that got me started on the growth mentality and Kaizen, so it has a special place in my heart. And it&rsquo;s really, really good at teaching you how to juggle. Which is incidentally a pretty good starter skill for building momentum on the whole business of learning new things, even if you&rsquo;re a grown man.</p>
 
+<p>Ultimately, borrowing experts&#8217; ideas is a time efficient hack for discovering domain-specific best practices. When beginning a new discipline, such as fitness or juggling or whatever else, it&rsquo;s almost always worth starting under the auspices of some formalized progam if possible.</p>
 ]]></content>
   </entry>
   
@@ -49,56 +52,60 @@
     <link href="http://bro-kaizen.github.io/blog/2014/11/19/stackable-permanent-life-improvements/"/>
     <updated>2014-11-19T16:11:46-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/19/stackable-permanent-life-improvements</id>
-    <content type="html"><![CDATA[<p>Amy Chua’s <a href="http://en.wikipedia.org/wiki/Battle_Hymn_of_the_Tiger_Mother">Tiger Mother</a> book claims <em>delayed gratification</em> as one of the three invariant characteristics of high-performing immigrant populations. This is right up Bro Kaizen’s alley, but I think we can generalize and improve that notion.</p>
+    <content type="html"><![CDATA[<p>Amy Chua&rsquo;s <a href="http://en.wikipedia.org/wiki/Battle_Hymn_of_the_Tiger_Mother">Tiger Mother</a> book claims <em>delayed gratification</em> as one of the three invariant characteristics of high-performing immigrant populations. She&rsquo;s on to something, but instead of &ldquo;delayed gratification,&rdquo; it&rsquo;s better to focus on a related generalization of that idea.</p>
 
 <!--more-->
 
-<p>Given finite time, money, concentration, and gumption, every man must make decisions about resource expenditure. In general, it is best to aim to expend your resources solely upon “Stackable Permanent Life Improvements.”</p>
 
-<p>Stackable Permanent Life Improvements are new additions to your life that add value, don’t expire, and can be compounded. Another way of saying this—stolen from Bro Kaizen’s crusty and implausibly rich old uncle—is, “Only buy things that appreciate.” What he means is that you ought to only exchange your resources for things that have lasting value and are composable (in the computer science sense of composability). </p>
+<p>Given finite time, money, concentration, and gumption, every man must make decisions about resource expenditure. In general, it is best to aim to expend your resources solely upon &ldquo;Stackable Permanent Life Improvements.&rdquo;</p>
 
-<h3 id="examples-of-stackable-permament-life-improvements">Examples of Stackable Permament Life Improvements:</h3>
+<p>Stackable Permanent Life Improvements are new additions to your life that add value, don&rsquo;t expire, and can be compounded. Another way of saying this&mdash;stolen from Bro Kaizen&rsquo;s crusty and implausibly rich old uncle&mdash;is, &ldquo;Only buy things that appreciate.&rdquo; What he means is that you ought to only exchange your resources for things that have lasting value and are composable (in the computer science sense of composability).</p>
 
-<ul>
-  <li>Learning a new language (Russian, Pashto, pig latin)</li>
-  <li>Buying assets that will appreciate or throw off positive cash flows indefinitely (bonds, equities, real estate, whatever).</li>
-  <li>Gaining experience talking to pretty girls, such that you give off a jaded and experienced vibe and are not intimidated by the next Finnish model you meet.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></li>
-  <li>Learning a new skill, such as how to squat with good form. This will allow you to improve your physical fitness indefinitely in the future.</li>
-  <li>Learning new theory that deepens your understanding of the world. Example: You read <a href="http://www.amazon.com/Applied-Partial-Differential-Equations-Boundary/dp/0130652431">Haberman</a>’s book on partial differential equations. You have gained a more fundamental understanding of the world around you, by understanding more about heat transfer and wave phenomena (among other topics). </li>
-</ul>
-
-<p>But beware! Do not be bamboozled by things that make you feel good now, and perhaps seem superficially similar to SPLI’s, but are not in fact the genuine article.</p>
-
-<h3 id="examples-of-stackable-but-non-permanent-life-improvements">Examples of Stackable but Non-permanent life improvements:</h3>
+<h3>Examples of Stackable Permament Life Improvements:</h3>
 
 <ul>
-  <li>You buy a delicious cake from the bakery and eat it. It is tasty at the time but if you want to get that taste again, you’ll have to buy another one.</li>
-  <li>You spend time playing Halo, which is very enjoyable but doesn’t pay dividends beyond slightly improved hand-eye coordination.</li>
-  <li>Your rugby coach praises your performance as a rucker. This praise makes you feel good, but afterwards you begin to rest on your laurels.</li>
+<li>Learning a new language (Russian, Pashto, pig latin)</li>
+<li>Buying assets that will appreciate or throw off positive cash flows indefinitely (bonds, equities, real estate, whatever).</li>
+<li>Gaining experience talking to pretty girls, such that you give off a jaded and experienced vibe and are not intimidated by the next Finnish model you meet.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></li>
+<li>Learning a new skill, such as how to squat with good form. This will allow you to improve your physical fitness indefinitely in the future.</li>
+<li>Learning new theory that deepens your understanding of the world. Example: You read <a href="http://www.amazon.com/Applied-Partial-Differential-Equations-Boundary/dp/0130652431">Haberman</a>&rsquo;s book on partial differential equations. You have gained a more fundamental understanding of the world around you, by understanding more about heat transfer and wave phenomena (among other topics).</li>
 </ul>
 
-<p>Stackable permanent life improvements tend to fall into a few buckets: </p>
 
-<h3 id="common-sorts-of-splis">Common sorts of SPLI’s:</h3>
+<p>But beware! Do not be bamboozled by things that make you feel good now, and perhaps seem superficially similar to SPLI&rsquo;s, but are not in fact the genuine article.</p>
+
+<h3>Examples of Stackable but Non-permanent life improvements:</h3>
 
 <ul>
-  <li>Learning new stuff, such as practical skills or theories</li>
-  <li>Financial improvements (new investments or appreciating/cash flow positive property)</li>
-  <li>Gaining credentials, such as degrees or fellowships, that can be used to convince other people and The Establishment of your value</li>
-  <li>New relationships with people</li>
+<li>You buy a delicious cake from the bakery and eat it. It is tasty at the time but if you want to get that taste again, you&rsquo;ll have to buy another one.</li>
+<li>You spend time playing Halo, which is very enjoyable but doesn&rsquo;t pay dividends beyond slightly improved hand-eye coordination.</li>
+<li>Your rugby coach praises your performance as a rucker. This praise makes you feel good, but afterwards you begin to rest on your laurels.</li>
 </ul>
 
-<p>Of course, there are probably plenty of other broad buckets. But keep an eye out for the ones above, as they’re some of the most common.</p>
 
-<p>And if pissing away your Sunday playing Halo is a male bonding activity that you do with your bros, that solidifies strong friendships for life, then by all means count it as a SPLI. But in that case, expenditure of the Sunday should by rights be filed under “Male Bonding,” not “Halo.”</p>
+<p>Stackable permanent life improvements tend to fall into a few buckets:</p>
 
+<h3>Common sorts of SPLI&rsquo;s:</h3>
+
+<ul>
+<li>Learning new stuff, such as practical skills or theories</li>
+<li>Financial improvements (new investments or appreciating/cash flow positive property)</li>
+<li>Gaining credentials, such as degrees or fellowships, that can be used to convince other people and The Establishment of your value</li>
+<li>New relationships with people</li>
+</ul>
+
+
+<p>Of course, there are probably plenty of other broad buckets. But keep an eye out for the ones above, as they&rsquo;re some of the most common.</p>
+
+<p>And if pissing away your Sunday playing Halo is a male bonding activity that you do with your bros, that solidifies strong friendships for life, then by all means count it as a SPLI. But in that case, expenditure of the Sunday should by rights be filed under &ldquo;Male Bonding,&rdquo; not &ldquo;Halo.&rdquo;</p>
 <div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>Has Bro Kaizen ever met a Finnish model? Or for that matter, any Finnish person at all? Certainly not. But a guy can dream, right? <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Has Bro Kaizen ever met a Finnish model? Or for that matter, any Finnish person at all? Certainly not. But a guy can dream, right?<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
 </div>
+
 ]]></content>
   </entry>
   
@@ -107,25 +114,29 @@
     <link href="http://bro-kaizen.github.io/blog/2014/11/18/instruction-in-natural-language/"/>
     <updated>2014-11-18T14:31:02-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/18/instruction-in-natural-language</id>
-    <content type="html"><![CDATA[<p>In many college classes and in the knowledge-work industry, you will be required to learn new material from a book. Very likely you will be assigned some reading on the topic, and this reading will probably be from an eminent and respectable tome. When people see you carrying around that tome, or reading it on the tube, they will be quite impressed by your powerful brain. But there’s one large drawback.</p>
+    <content type="html"><![CDATA[<p>In many college classes and in the knowledge-work industry, you will be required to learn new material from a book. Very likely you will be assigned some reading on the topic, and this reading will probably be from an eminent and respectable tome. When people see you carrying around that tome, or reading it on the tube, they will be quite impressed by your powerful brain. But there&rsquo;s one large drawback.</p>
 
 <!--more-->
 
-<p>Surround your pullquote like this {&#8221; text to be quoted &#8220;}</p>
 
-<p>Nobody will be impressed in the slightest when they see you carrying that around. In fact, you’ll likely be mocked. For this reason, your manager will never hand you a <em>For Dummies</em> or similar title after asking you to figure out a new topic—it would imply that his company is filled with wankers. Not one professor in all of academia has ever assigned a <em>Complete Idiot’s Guide.</em> But these books are often the most valuable introductory material available anywhere. They assume no prior domain knowledge, tend to treat each chapter as a discrete unit that could be learned alone, are written with many concrete examples, and often include bits of levity to ease the burden of the material’s density.</p>
+<p>{% pullquote %}
+That tome will be utterly unhelpful, written in a language of dense jargon, and of the expectation that you will read the accursed thing from cover to cover in its entirety and with a perfect memory, because {&ldquo;the vital concept in chapter 8 was defined exactly once, four hundred pages ago, in chapter 1.&rdquo;} Furthermore the location of that definition is not mentioned in chapter 8. Such books are peerless when you <em>already understand</em> the topic and aim to deepen your comprehension. But they are the curse of unproductive death for the novice. The paradigmatic example of this is Gleason and Gordon&rsquo;s <a href="http://www.amazon.com/Applied-Calculus-Deborah-Hughes-Hallett/dp/0470170522"><em>Applied Calculus</em></a>, which is often assigned to undergraduates in a calculus course for students who are not mathematics majors. These students would do <em>overwhelmingly</em> better to ignore the (needlessly and insultingly expensive) Gleason and Gordon and instead pick up a text written in natural language for a non-specialist audience. In this case, the best answer is something like <a href="http://www.amazon.com/Complete-Idiots-Guide-Calculus-Edition/dp/1592574718/ref=dp_ob_title_bk"><em>The Complete Idiot&rsquo;s Guide to Calculus</em></a>.
+{% endpullquote %}</p>
 
-<p>Most students feel guilty for ignoring the assigned course text. I hereby give you permission to ignore bad academic material and to make your own decisions about how to optimize learning outcomes. Next time you’re assigned some dense reading, check to see if you can find a more accessible treatment at one of the following locations or elsewhere:</p>
+<p>Nobody will be impressed in the slightest when they see you carrying that around. In fact, you&rsquo;ll likely be mocked. For this reason, your manager will never hand you a <em>For Dummies</em> or similar title after asking you to figure out a new topic&mdash;it would imply that his company is filled with wankers. Not one professor in all of academia has ever assigned a <em>Complete Idiot&rsquo;s Guide.</em> But these books are often the most valuable introductory material available anywhere. They assume no prior domain knowledge, tend to treat each chapter as a discrete unit that could be learned alone, are written with many concrete examples, and often include bits of levity to ease the burden of the material&rsquo;s density.</p>
+
+<p>Most students feel guilty for ignoring the assigned course text. I hereby give you permission to ignore bad academic material and to make your own decisions about how to optimize learning outcomes. Next time you&rsquo;re assigned some dense reading, check to see if you can find a more accessible treatment at one of the following locations or elsewhere:</p>
 
 <ul>
-  <li><a href="http://en.wikipedia.org/wiki/For_Dummies">For Dummies</a>, written in a cutesy tone but often quite valuable</li>
-  <li><a href="http://en.wikipedia.org/wiki/Complete_Idiot%27s_Guides">Complete Idiot’s guide</a>, similarly cutesy, often with groan-inducing humor</li>
-  <li><a href="http://betterexplained.com">Better Explained</a>, which is pure gold</li>
-  <li><a href="https://global.oup.com/academic/content/series/v/very-short-introductions-vsi/?cc=us&amp;lang=en&amp;">The Very Short Introduction Series</a>, written in a more academic style but generally quite accessible</li>
-  <li><a href="https://georgemdallas.wordpress.com/2014/05/14/wavelets-4-dummies-signal-processing-fourier-transforms-and-heisenberg/">George M. Dallas</a>, who covers only a handful of technical topics, but does so masterfully.</li>
+<li><a href="http://en.wikipedia.org/wiki/For_Dummies">For Dummies</a>, written in a cutesy tone but often quite valuable</li>
+<li><a href="http://en.wikipedia.org/wiki/Complete_Idiot%27s_Guides">Complete Idiot&rsquo;s guide</a>, similarly cutesy, often with groan-inducing humor</li>
+<li><a href="http://betterexplained.com">Better Explained</a>, which is pure gold</li>
+<li><a href="https://global.oup.com/academic/content/series/v/very-short-introductions-vsi/?cc=us&amp;lang=en&amp;">The Very Short Introduction Series</a>, written in a more academic style but generally quite accessible</li>
+<li><a href="https://georgemdallas.wordpress.com/2014/05/14/wavelets-4-dummies-signal-processing-fourier-transforms-and-heisenberg/">George M. Dallas</a>, who covers only a handful of technical topics, but does so masterfully.</li>
 </ul>
 
-<p>Caveat: This advice is for the mere mortals who are getting by on elbow grease and long hours. Obviously this does not apply if you’re a top-5% theoretical thinker. You know who you are. Why are you reading this blog? Go forth and conquer that <a href="http://maths.anu.edu.au/math3349-special-topics-mathematics-differential-geometry">special topics seminar in differential geometry</a>. </p>
+
+<p>Caveat: This advice is for the mere mortals who are getting by on elbow grease and long hours. Obviously this does not apply if you&rsquo;re a top-5% theoretical thinker. You know who you are. Why are you reading this blog? Go forth and conquer that <a href="http://maths.anu.edu.au/math3349-special-topics-mathematics-differential-geometry">special topics seminar in differential geometry</a>.</p>
 ]]></content>
   </entry>
   
@@ -134,31 +145,36 @@
     <link href="http://bro-kaizen.github.io/blog/2014/11/17/husband-your-gumption/"/>
     <updated>2014-11-17T01:05:07-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/17/husband-your-gumption</id>
-    <content type="html"><![CDATA[<p>Continuing yesterday’s treatment of <a href="http://bro-kaizen.github.io/blog/2014/11/16/on-gumption-and-character/">gumption and character</a>, it’s time to explicitly highlight an important caveat: Gumption can be depleted! And here too is a chance to connect with Bro Kaizen’s favorite soapbox topic, <a href="http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice/">Deliberate Practice</a>. </p>
-
-<p>Deliberate Practice has 3 inputs:</p>
+    <content type="html"><![CDATA[<p><a href="http://bro-kaizen.github.io/blog/2014/11/16/on-gumption-and-character/">Gumption and character</a> are great, but there&rsquo;s a caveat!</p>
 
 <!--more-->
 
+
+<p>Gumption can be temporarily depleted, which will slow your roll on deliberate practice and many other good parts of your life.</p>
+
+<p>Deliberate Practice has 3 inputs:</p>
+
 <ol>
-  <li>Time</li>
-  <li>Knowledge</li>
-  <li>Gumption</li>
+<li>Time</li>
+<li>Knowledge</li>
+<li>Gumption</li>
 </ol>
 
-<p>Ingredient #1, time management, has been abundantly covered by <a href="http://terrytao.wordpress.com/2008/08/07/on-time-management/">far</a> <a href="http://www.entrepreneur.com/article/220418">greater</a> <a href="http://blog.penelopetrunk.com/2009/01/08/5-time-management-tricks-i-learned-from-years-of-hating-tim-ferriss/">powers</a> than Bro Kaizen. Ingredient #2 has been treated elsewhere, <a href="http://bro-kaizen.github.io/blog/2014/11/12/growth-mentality/">on</a> and <a href="http://en.wikipedia.org/wiki/Carol_Dweck">off</a> this blog. Let’s focus on ingredient #3, “Gumption.”</p>
 
-<p>If you expend your gumption fruitlessly, by hours spent copy-and-pasting long columns of figures between Excel spreadsheets, or memorizing vast quantities of facts by rote, you will lack the wherewithal to tackle the design-a-rocket-thruster project when it is offered to you. Similarly, in your drained state, you’ll lack the discipline to stick to your diet, wake up early to visit the gym, man up and go talk to that pretty girl, and avoid the time-wasting temptation of Reddit/Television. Resistance to each of these negative life ingredients draws from the same reservoir.</p>
+<p>Ingredient #1, time management, has been abundantly covered by <a href="http://terrytao.wordpress.com/2008/08/07/on-time-management/">far</a> <a href="http://www.entrepreneur.com/article/220418">greater</a> <a href="http://blog.penelopetrunk.com/2009/01/08/5-time-management-tricks-i-learned-from-years-of-hating-tim-ferriss/">powers</a> than Bro Kaizen. Ingredient #2 has been treated elsewhere, <a href="http://bro-kaizen.github.io/blog/2014/11/12/growth-mentality/">on</a> and <a href="http://en.wikipedia.org/wiki/Carol_Dweck">off</a> this blog. Let&rsquo;s focus on ingredient #3, &ldquo;Gumption.&rdquo;</p>
 
-<p>Therefore you must husband your gumption reserves, protect them from depletion on stupid things, and instead expend them solely on deliberate practice and worthwhile tasks (aka rocket engine design). Perhaps the most practical way to accomplish this gumption husbandry is to construct a “life system” wherein positive processes and outcomes happen by default. For example,</p>
+<p>If you expend your gumption fruitlessly, by hours spent copy-and-pasting long columns of figures between Excel spreadsheets, or memorizing vast quantities of facts by rote, you will lack the wherewithal to tackle the design-a-rocket-thruster project when it is offered to you. Similarly, in your drained state, you&rsquo;ll lack the discipline to stick to your diet, wake up early to visit the gym, man up and go talk to that pretty girl, and avoid the time-wasting temptation of Reddit/Television. Resistance to each of these negative life ingredients draws from the same reservoir.</p>
+
+<p>Therefore you must husband your gumption reserves, protect them from depletion on stupid things, and instead expend them solely on deliberate practice and worthwhile tasks (aka rocket engine design). Perhaps the most practical way to accomplish this gumption husbandry is to construct a &ldquo;life system&rdquo; wherein positive processes and outcomes happen by default. For example,</p>
 
 <ul>
-  <li>Design a trip to the gym into your day (perhaps by joining one between your house and job, such that you pass it every day anyway and you might as well go in). </li>
-  <li>Put a pullup bar in your bathroom door so you end up doing a few reps on your way to the shower. (Idea stolen from <a href="http://matt.might.net/articles/hacking-strength/">Matt Might</a>)</li>
-  <li>Pay your housemate to withold your wallet and phone every day after work until you complete your 1 hour of Pashto language practice.</li>
+<li>Design a trip to the gym into your day (perhaps by joining one between your house and job, such that you pass it every day anyway and you might as well go in).</li>
+<li>Put a pullup bar in your bathroom door so you end up doing a few reps on your way to the shower. (Idea stolen from <a href="http://matt.might.net/articles/hacking-strength/">Matt Might</a>)</li>
+<li>Pay your housemate to withold your wallet and phone every day after work until you complete your 1 hour of Pashto language practice.</li>
 </ul>
 
-<p>We want the <em>system</em> to do the heavy motivational lifting/tiresome shlepping automatically, thereby freeing your gumption reservoir for the vital tasks for which it is on the critical path or is the limiting reactant. </p>
+
+<p>We want the <em>system</em> to do the heavy motivational lifting/tiresome shlepping automatically, thereby freeing your gumption reservoir for the vital tasks for which it is on the critical path or is the limiting reactant.</p>
 ]]></content>
   </entry>
   
@@ -167,13 +183,15 @@
     <link href="http://bro-kaizen.github.io/blog/2014/11/15/a-pithy-example-of-deliberate-practice/"/>
     <updated>2014-11-15T00:46:52-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/15/a-pithy-example-of-deliberate-practice</id>
-    <content type="html"><![CDATA[<p>Wiser and more experienced writers than Bro Kaizen are considering Deliberate Practice, about which topic we began <a href="http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice/">harping</a> earlier this week. Here’s perhaps the pithiest example of DP yet—this is the whole thing in a nutshell.</p>
+    <content type="html"><![CDATA[<p>Wiser and more experienced writers than Bro Kaizen are considering Deliberate Practice, about which topic we began <a href="http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice/">harping</a> earlier this week. Here&rsquo;s perhaps the pithiest example of DP yet&mdash;this is the whole thing in a nutshell.</p>
 
 <!--more-->
 
-<p><blockquote><p>Consider the activity of two basketball players practicing free throws for one hour. Player A shoots 200 practice shots, Player B shoots 50. The Player B retrieves his own shots, dribbles leisurely and takes several breaks to talk to friends. Player A has a colleague who retrieves the ball after each attempt. The colleague keeps a record of shots made. If the shot is missed the colleague records whether the miss was short, long, left or right and the shooter reviews the results after every 10 minutes of practice. To characterize their hour of practice as equal would hardly be accurate. Assuming this is typical of their practice routine and they are equally skilled at the start, which would you predict would be the better shooter after only 100 hours of practice?</p><footer><strong>—Aubrey Daniels</strong></footer></blockquote></p>
 
-<p>The quote is brazenly stolen from <a href="http://aubreydaniels.com/pmezine/expert-performance-apologies-dr-ericsson-it-not-10000-hours-deliberate-practice">here</a>. Written glibly like this, Aubrey and I are making it sound easy, when in fact the essence of the thing is just precisely the opposite. Of course Deliberate Practice is not easy—<em>that’s the point.</em> It’s hard. And it is for that reason that you must <a href="http://bro-kaizen.github.io/blog/2014/11/17/husband-your-gumption/">nurture</a> your supply of <a href="http://bro-kaizen.github.io/blog/2014/11/16/on-gumption-and-character/">gumption</a> in order to tackle it. </p>
+<p>{% blockquote &mdash;Aubrey Daniels %}
+Consider the activity of two basketball players practicing free throws for one hour. Player A shoots 200 practice shots, Player B shoots 50. The Player B retrieves his own shots, dribbles leisurely and takes several breaks to talk to friends. Player A has a colleague who retrieves the ball after each attempt. The colleague keeps a record of shots made. If the shot is missed the colleague records whether the miss was short, long, left or right and the shooter reviews the results after every 10 minutes of practice. To characterize their hour of practice as equal would hardly be accurate. Assuming this is typical of their practice routine and they are equally skilled at the start, which would you predict would be the better shooter after only 100 hours of practice?{% endblockquote %}</p>
+
+<p>The quote is brazenly stolen from <a href="http://aubreydaniels.com/pmezine/expert-performance-apologies-dr-ericsson-it-not-10000-hours-deliberate-practice">here</a>. Written glibly like this, Aubrey and I are making it sound easy, when in fact the essence of the thing is just precisely the opposite. Of course Deliberate Practice is not easy&mdash;<em>that&rsquo;s the point.</em> It&rsquo;s hard. And it is for that reason that you must <a href="http://bro-kaizen.github.io/blog/2014/11/17/husband-your-gumption/">nurture</a> your supply of <a href="http://bro-kaizen.github.io/blog/2014/11/16/on-gumption-and-character/">gumption</a> in order to tackle it.</p>
 ]]></content>
   </entry>
   

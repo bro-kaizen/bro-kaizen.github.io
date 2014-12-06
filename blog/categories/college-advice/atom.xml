@@ -4,7 +4,7 @@
   <title><![CDATA[Category: College Advice | Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/blog/categories/college-advice/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-12-03T19:56:47-05:00</updated>
+  <updated>2014-12-06T13:39:01-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -18,25 +18,29 @@
     <link href="http://bro-kaizen.github.io/blog/2014/11/18/instruction-in-natural-language/"/>
     <updated>2014-11-18T14:31:02-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/18/instruction-in-natural-language</id>
-    <content type="html"><![CDATA[<p>In many college classes and in the knowledge-work industry, you will be required to learn new material from a book. Very likely you will be assigned some reading on the topic, and this reading will probably be from an eminent and respectable tome. When people see you carrying around that tome, or reading it on the tube, they will be quite impressed by your powerful brain. But there’s one large drawback.</p>
+    <content type="html"><![CDATA[<p>In many college classes and in the knowledge-work industry, you will be required to learn new material from a book. Very likely you will be assigned some reading on the topic, and this reading will probably be from an eminent and respectable tome. When people see you carrying around that tome, or reading it on the tube, they will be quite impressed by your powerful brain. But there&rsquo;s one large drawback.</p>
 
 <!--more-->
 
-<p>Surround your pullquote like this {&#8221; text to be quoted &#8220;}</p>
 
-<p>Nobody will be impressed in the slightest when they see you carrying that around. In fact, you’ll likely be mocked. For this reason, your manager will never hand you a <em>For Dummies</em> or similar title after asking you to figure out a new topic—it would imply that his company is filled with wankers. Not one professor in all of academia has ever assigned a <em>Complete Idiot’s Guide.</em> But these books are often the most valuable introductory material available anywhere. They assume no prior domain knowledge, tend to treat each chapter as a discrete unit that could be learned alone, are written with many concrete examples, and often include bits of levity to ease the burden of the material’s density.</p>
+<p>{% pullquote %}
+That tome will be utterly unhelpful, written in a language of dense jargon, and of the expectation that you will read the accursed thing from cover to cover in its entirety and with a perfect memory, because {&ldquo;the vital concept in chapter 8 was defined exactly once, four hundred pages ago, in chapter 1.&rdquo;} Furthermore the location of that definition is not mentioned in chapter 8. Such books are peerless when you <em>already understand</em> the topic and aim to deepen your comprehension. But they are the curse of unproductive death for the novice. The paradigmatic example of this is Gleason and Gordon&rsquo;s <a href="http://www.amazon.com/Applied-Calculus-Deborah-Hughes-Hallett/dp/0470170522"><em>Applied Calculus</em></a>, which is often assigned to undergraduates in a calculus course for students who are not mathematics majors. These students would do <em>overwhelmingly</em> better to ignore the (needlessly and insultingly expensive) Gleason and Gordon and instead pick up a text written in natural language for a non-specialist audience. In this case, the best answer is something like <a href="http://www.amazon.com/Complete-Idiots-Guide-Calculus-Edition/dp/1592574718/ref=dp_ob_title_bk"><em>The Complete Idiot&rsquo;s Guide to Calculus</em></a>.
+{% endpullquote %}</p>
 
-<p>Most students feel guilty for ignoring the assigned course text. I hereby give you permission to ignore bad academic material and to make your own decisions about how to optimize learning outcomes. Next time you’re assigned some dense reading, check to see if you can find a more accessible treatment at one of the following locations or elsewhere:</p>
+<p>Nobody will be impressed in the slightest when they see you carrying that around. In fact, you&rsquo;ll likely be mocked. For this reason, your manager will never hand you a <em>For Dummies</em> or similar title after asking you to figure out a new topic&mdash;it would imply that his company is filled with wankers. Not one professor in all of academia has ever assigned a <em>Complete Idiot&rsquo;s Guide.</em> But these books are often the most valuable introductory material available anywhere. They assume no prior domain knowledge, tend to treat each chapter as a discrete unit that could be learned alone, are written with many concrete examples, and often include bits of levity to ease the burden of the material&rsquo;s density.</p>
+
+<p>Most students feel guilty for ignoring the assigned course text. I hereby give you permission to ignore bad academic material and to make your own decisions about how to optimize learning outcomes. Next time you&rsquo;re assigned some dense reading, check to see if you can find a more accessible treatment at one of the following locations or elsewhere:</p>
 
 <ul>
-  <li><a href="http://en.wikipedia.org/wiki/For_Dummies">For Dummies</a>, written in a cutesy tone but often quite valuable</li>
-  <li><a href="http://en.wikipedia.org/wiki/Complete_Idiot%27s_Guides">Complete Idiot’s guide</a>, similarly cutesy, often with groan-inducing humor</li>
-  <li><a href="http://betterexplained.com">Better Explained</a>, which is pure gold</li>
-  <li><a href="https://global.oup.com/academic/content/series/v/very-short-introductions-vsi/?cc=us&amp;lang=en&amp;">The Very Short Introduction Series</a>, written in a more academic style but generally quite accessible</li>
-  <li><a href="https://georgemdallas.wordpress.com/2014/05/14/wavelets-4-dummies-signal-processing-fourier-transforms-and-heisenberg/">George M. Dallas</a>, who covers only a handful of technical topics, but does so masterfully.</li>
+<li><a href="http://en.wikipedia.org/wiki/For_Dummies">For Dummies</a>, written in a cutesy tone but often quite valuable</li>
+<li><a href="http://en.wikipedia.org/wiki/Complete_Idiot%27s_Guides">Complete Idiot&rsquo;s guide</a>, similarly cutesy, often with groan-inducing humor</li>
+<li><a href="http://betterexplained.com">Better Explained</a>, which is pure gold</li>
+<li><a href="https://global.oup.com/academic/content/series/v/very-short-introductions-vsi/?cc=us&amp;lang=en&amp;">The Very Short Introduction Series</a>, written in a more academic style but generally quite accessible</li>
+<li><a href="https://georgemdallas.wordpress.com/2014/05/14/wavelets-4-dummies-signal-processing-fourier-transforms-and-heisenberg/">George M. Dallas</a>, who covers only a handful of technical topics, but does so masterfully.</li>
 </ul>
 
-<p>Caveat: This advice is for the mere mortals who are getting by on elbow grease and long hours. Obviously this does not apply if you’re a top-5% theoretical thinker. You know who you are. Why are you reading this blog? Go forth and conquer that <a href="http://maths.anu.edu.au/math3349-special-topics-mathematics-differential-geometry">special topics seminar in differential geometry</a>. </p>
+
+<p>Caveat: This advice is for the mere mortals who are getting by on elbow grease and long hours. Obviously this does not apply if you&rsquo;re a top-5% theoretical thinker. You know who you are. Why are you reading this blog? Go forth and conquer that <a href="http://maths.anu.edu.au/math3349-special-topics-mathematics-differential-geometry">special topics seminar in differential geometry</a>.</p>
 ]]></content>
   </entry>
   
@@ -45,15 +49,16 @@
     <link href="http://bro-kaizen.github.io/blog/2014/11/11/maximizing-productivity/"/>
     <updated>2014-11-11T18:27:21-05:00</updated>
     <id>http://bro-kaizen.github.io/blog/2014/11/11/maximizing-productivity</id>
-    <content type="html"><![CDATA[<p>Napoleon said something like (paraphrasing aggressively here), “The results of every battle are determined ahead of time by the geography, weather, and factors pertaining to the supply of war <em>materiel</em>.” </p>
+    <content type="html"><![CDATA[<p>Napoleon said something like (paraphrasing aggressively here), &ldquo;The results of every battle are determined ahead of time by the geography, weather, and factors pertaining to the supply of war <em>materiel</em>.&rdquo;</p>
 
-<p>This notion of meta-factors’ outsized importance also applies to studying, especially in college.</p>
+<p>This notion of meta-factors&#8217; outsized importance also applies to studying, especially in college.</p>
 
 <!--more-->
 
-<p>When you are studying hard, your brain will become attuned to small details. It is best to point this detail-oriented focus at the text you’re trying to learn, such as Andrew Ng’s <a href="http://www.holehouse.org/mlclass/">Machine Learning course</a> or one of my personal favorite MOOC’s, <em>The Theory and Practice of Dodge Diesel Truck Repair for Strongly Heteronormative Men.</em></p>
 
-<p>In most candidate study locations, there will be a million small distractions that, when compounded, will significantly diminish your focus. Do not waste your mental <em>oomph</em> on small blinking lights on the back of an HP Elitebook’s NIC, loud IT managers, people walking in your field of view, etc. It is <em>so important</em> to find somewhere with very few audiovisual distractions, where you know you can be productive. </p>
+<p>When you are studying hard, your brain will become attuned to small details. It is best to point this detail-oriented focus at the text you&rsquo;re trying to learn, such as Andrew Ng&rsquo;s <a href="http://www.holehouse.org/mlclass/">Machine Learning course</a> or one of my personal favorite MOOC&rsquo;s, <em>The Theory and Practice of Dodge Diesel Truck Repair for Strongly Heteronormative Men.</em></p>
+
+<p>In most candidate study locations, there will be a million small distractions that, when compounded, will significantly diminish your focus. Do not waste your mental <em>oomph</em> on small blinking lights on the back of an HP Elitebook&rsquo;s NIC, loud IT managers, people walking in your field of view, etc. It is <em>so important</em> to find somewhere with very few audiovisual distractions, where you know you can be productive.</p>
 
 <p>Instead of taking the first seat in the library that comes into view, you ought to find the single canonically best place to study, and then study there every single time.</p>
 ]]></content>
