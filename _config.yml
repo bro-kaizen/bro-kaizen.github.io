@@ -4,7 +4,7 @@
 
 url: http://bro-kaizen.github.io
 title: Bro Kaizen
-subtitle: I am always a beginner
+subtitle: The young man's growth mindset
 author: bro_kaizen
 simple_search: https://www.google.com/search
 description: A blog about directed practice, self-improvement, and unconventional political positions. Strictly real talk.
@@ -97,8 +97,8 @@ pages_list:
 # disqus_short_name:
 # disqus_show_comment_count: false
 #
-# # Google Analytics
-# google_analytics_tracking_id:
+# Google Analytics
+google_analytics_tracking_id: UA-57390089-1
 #
 # # Facebook Like
 # facebook_like: false
