@@ -15,7 +15,9 @@ But fear not---there is a better way:
 
 The better approach is called "deliberate practice," a term that I have shamelessly stolen from [Geoff Colvin](http://en.wikipedia.org/wiki/Geoffrey_Colvin), [James Clear](http://jamesclear.com/deliberate-practice), and [others](http://www.artofmanliness.com/2010/11/07/the-secret-of-great-men-deliberate-practice/). 
 
-Deliberate practice has been exhaustively defined and elaborated upon elsewhere (there are literally books written on the topic---follow those links above!) so it wouldn't do to beat a dead horse at length here. Suffice it to say that deliberate practice is something you must do in order to achieve time-efficient improvements in whatever fields are relevant to your life. In fact, participating in deliberate practice is such a strong predictor of success in a variety of athletic and intellectual fields (even chess!) that it has been called an "unfair advantage." Needless to say, at this blog, we try to deploy the maximum possible quantity of unfair advantages in your favor. 
+## I. An Implementation of the Growth Mentality's Objectives
+
+Deliberate practice is the best-known method for _executing_ or _implementing_ the objectives decided by your growth mentality. In fact, participating in deliberate practice is such a strong predictor of success in a variety of athletic and intellectual fields (even chess!) that it has been called an "unfair advantage." Needless to say, at this blog, we try to deploy the maximum possible quantity of unfair advantages in your favor. 
 
 Let's construct a short working definition of deliberate practice by examining its attributes:
 
@@ -25,6 +27,8 @@ Let's construct a short working definition of deliberate practice by examining i
 * DP is repeatable, ie. you can come back tomorrow and learn more Pashto vocabulary using the same (sit >> load software >> repeat words) algorithm as you used today
 * DP involves a tight iterative feedback loop, where good or bad outcomes are connected to your actions in near real time. For example, the Rosetta Stone software will grade your pronunciation as soon as you finish talking.
 * DP is difficult
+
+## II. Impose Regularity on Seemingly Dissimilar Problem Domains
 
 In a way, DP is a method for standardizing disparate problem domains. Rather than discovering a new meta-method for improvements in each sphere of your life, you can try to make the problem fit a DP shaped mold. If you need to learn node.js for a project at work, you might read about DP and then try to approach the problem like this: 
 
@@ -42,6 +46,7 @@ In a way, DP is a method for standardizing disparate problem domains. Rather tha
 * Be prepared for difficulty
 
 
+## III. The Fault Tolerant Temperament
 {% pullquote %}
-Of course, this approach likely won't work perfectly, and in fact you might discover, midway through, that it will never work at all. And that's fine. Albert Einstein famously quipped, {""If we knew what the hell we were doing, it wouldn't be called research, would it?""} I haven't the foggiest idea how to install or operate node.js, and in fact the procedure above is one that I made up. The point is that a methodical approach is certainly better than flailing about a-systematically. After you approach a few disparate problems like this, you will start to develop a very handy sort of DP-intuition. 
+Of course, the approach above likely won't work perfectly, and in fact you might discover, midway through, that it will never work at all. And that's fine. Albert Einstein famously quipped, {""If we knew what the hell we were doing, it wouldn't be called research, would it?""} I haven't the foggiest idea how to install or operate node.js, and in fact the procedure above is one that I made up. The point is that a methodical approach is certainly better than flailing about a-systematically. After you approach a few disparate problems like this, you will start to develop a very handy sort of DP-intuition that will serve in very good stead for years to come.
 {% endpullquote %}
