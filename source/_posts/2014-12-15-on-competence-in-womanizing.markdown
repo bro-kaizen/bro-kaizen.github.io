@@ -1,0 +1,30 @@
+---
+layout: post
+title: "On the Teleology of Womanizing"
+date: 2014-12-15 00:22:59 -0500
+comments: true
+categories: 
+---
+
+There are many reasons to become a competent womanizer, not least among which is the fact that you are biologically programmed for sex and therefore that the pursuit of women is axiomatically interesting. But there are also some other handy side benefits associated with the attainment of philandering nirvana.
+
+<!--more-->
+
+## I. To Redirect One's Energies
+Chief among these secondary benefits is that quickly handling the girl-chasing part of your life frees up time and effort for other tasks. The part of your brain that was formerly focussed on the pursuit of comely maidens will be liberated, and you can then redirect your energies toward worthy masculine pursuits such as reading Homer, becoming a proficient marksman with long- and short-barreled firearms, and learning how to train neural nets for fun and profit.
+
+## II. A Pleasant Thought Experiment
+Imagine this---if you already had a dozen smoking hot Victoria's Secret models, of every conceivable sort and in various simultaneous combinations, available for immediate sex via a single Whatsapp message, you would likely run your life somewhat differently than you do now. 
+
+You would probably become less interested in pursuing women for the sake of validating your ego, and more interested in other parts of your life. There would be fewer late nights in loud bars and less money spent on drinks. You might spend more time reading, improving your physical fitness, or developing meaningful relationships with people whose central activity is not gossipy text messaging and the pursuit of attention. 
+
+## III. To Each His Own
+Naturally, a single good woman could in principle satisfy your needs for female companionship and thereby confer the same second-order benefits as a reliable stable of girls. The method by which you "handle the girl-chasing part of your life" is only very loosely coupled to the reaping of these secondary benefits. But beware---for most young men in the Anglo-American world[^1], a life committed to any one woman is at best suboptimal and at worst hellishly emasculating. 
+
+## IV. Caveat Venator
+Of course, the dozen-models example above is an extreme case. Only a tiny minority of men on earth enjoy that sort of privilege---and most of these are well connected fashion and entertainment industry types, who hold the keys to the industrial-scale attention/social status machinery that females crave so desperately. [Terry Richardson](http://www.highsnobiety.com/2010/01/28/pirelli-calendar-2010-a-full-look-nsfw/#slide-13) (link NSFW) springs to mind. Without inserting yourself in the process by which pretty young women are fêted before the broadest of publics, living like that is a low-probability outcome. But take heart---a stable of between five and ten reliable uncommitted girls (perhaps with temperatures in the 6-9 range) is eminently attainable for any competent man in a major city. Much has been written about how to attain this, often on finer, fatter publications than Bro Kaizen. 
+
+## V. Common Misunderstandings
+By no means is Bro Kaizen suggesting that interactions with females are not inherently interesting and valuable. You should at all times act in accordance with your nature, and therefore remain interested in sex with women for all the obvious reasons. Nor should you abandon your pursuit of the fair sex and focus entirely on your manly arts. Rather, competently and rapidly satiate your desire for female companionship; then, having solved the immediate problem of your thirst, you can turn your attention to weightier topics. 
+
+[^1]: South Africa seems to be an exception to the rule---an effect perhaps explicable by its position at the Commonwealth's periphery. At any rate its girls are of a higher caliber on average than what you find on true British or American soil.
