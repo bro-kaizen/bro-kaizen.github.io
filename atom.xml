@@ -4,7 +4,7 @@
   <title><![CDATA[Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-12-28T11:23:49-05:00</updated>
+  <updated>2014-12-29T00:45:02-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Dapper Propagandist]]></title>
+    <link href="http://bro-kaizen.github.io/blog/2014/12/27/apparel-and-propaganda/"/>
+    <updated>2014-12-27T15:36:07-05:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2014/12/27/apparel-and-propaganda</id>
+    <content type="html"><![CDATA[<p>The human animal is by and large easily bamboozled by the surface impressions of things. You will meet comparatively few people who see beyond the most superficial of apperances. It&rsquo;s not very hard to use this fact to your advantage.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[On the Teleology of Womanizing]]></title>
