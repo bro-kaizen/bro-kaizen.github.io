@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Propaganda | Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/blog/categories/propaganda/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2014-12-29T00:45:02-05:00</updated>
+  <updated>2014-12-29T00:47:05-05:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -24,19 +24,19 @@
 
 ## I. Frustration and the Technical Disposition
 
-<span class='pullquote-right' data-pullquote='&#8220;Why can&#8217;t these stupid people see past shallow surface appearances and perceive the real essence of the thing!?&#8221;'>
-For the technically inclined&#8212;those who peer at nearly-identical resistors whose ratings differ by a hundred thousand ohms, or pass days in contemplation of apparently-dissimilar manifolds that are nonetheless provably topologically equivalent&#8212;this is profoundly annoying. &#8220;Why can&#8217;t these stupid people see past shallow surface appearances and perceive the real essence of the thing!?&#8221; This objection can take many other forms, including but not limited to &#8220;Why doesn&#8217;t that girl notice how cool I am?&#8221; and &#8220;Why doesn&#8217;t my boss promote me?&#8221; Most of these objections are valid on their own merits, but in practice, attempts to compete with the nature of the human animal and the nurture of superficial, visual, TV-friendly modern culture is a fool&#8217;s game. A better strategy is to accept your fellow man for who he is, and use his foibles to your own advantage. This is doubly true when ordinary people are evaluating _you_ via their shallow heuristics.
-</span>
+{% pullquote %}
+For the technically inclined&#8212;those who peer at nearly-identical resistors whose ratings differ by a hundred thousand ohms, or pass days in contemplation of apparently-dissimilar manifolds that are nonetheless provably topologically equivalent&#8212;this is profoundly annoying. {&#8220;&#8221;Why can&#8217;t these stupid people see past shallow surface appearances and perceive the real essence of the thing!?&#8221;&#8220;} This objection can take many other forms, including but not limited to &#8220;Why doesn&#8217;t that girl notice how cool I am?&#8221; and &#8220;Why doesn&#8217;t my boss promote me?&#8221; Most of these objections are valid on their own merits, but in practice, attempts to compete with the nature of the human animal and the nurture of superficial, visual, TV-friendly modern culture is a fool&#8217;s game. A better strategy is to accept your fellow man for who he is, and use his foibles to your own advantage. This is doubly true when ordinary people are evaluating _you_ via their shallow heuristics.
+{% endpullquote %}
 
 ## II. Clothing is a Propaganda Expense
 
-<span class='caption-wrapper left'><img class='caption' src='/images/suit_guy.jpg' width='300' height='150' title='Fig. 1: Policemen believe them. [^1]'><span class='caption-text'>Fig. 1: Policemen believe them. [^1]</span></span>
+{% imgcap left /images/suit_guy.jpg 300 150 Fig. 1: Policemen believe them. [^1]%}
 
 As a male, you&#8217;re very likely not wholly enthused about shopping for clothes and worrying about how you look. Worrying about your haircut and spending time researching personal-appearance best practices probably seem like time wasted. If you file these time and money costs in the &#8220;Fun&#8221; or &#8220;Relaxing&#8221; categories, you&#8217;re right&#8212;they&#8217;re terrible wastes of resources. But that&#8217;s a categorization error, because spending money on your personal appearance is fundamentally a _propaganda_ cost, not something that you do for yourself. 
 
 In other words, you spend gumption on clothes, hair, and other superficials not because those expenditures make you a more complete human or a better mathematician or plumber or whatever you are, but rather because other people are stupid and you can trivially control their minds by putting on a pair of trousers that they associate with some social role. You would be grossly remiss to pass up such an easy opportunity for mind control. And when you view it this way, clothes, hair, and social skills are a great bargain for you, the buyer&#8212;in general, changing people&#8217;s minds or behavior is very difficult and expensive (for reference, examine the costs associated with TV advertising), but you&#8217;ve got the chance to do it for the price of a clean shirt, sharp shoes, and a fresh haircut. 
 
-<span class='caption-wrapper right'><img class='caption' src='/images/punks.jpg' width='300' height='150' title='Fig. 2: London's burning. [^2]'><span class='caption-text'>Fig. 2: London&#8217;s burning. [^2]</span></span> 
+{% imgcap right /images/punks.jpg 300 150 Fig. 2: London&#8217;s burning. [^2]%} 
  
   
 ## III. Country Tweeds and City Silks
