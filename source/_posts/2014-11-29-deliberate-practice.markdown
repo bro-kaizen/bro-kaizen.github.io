@@ -28,25 +28,12 @@ Let's construct a short working definition of deliberate practice by examining i
 * DP involves a tight iterative feedback loop, where good or bad outcomes are connected to your actions in near real time. For example, the Rosetta Stone software will grade your pronunciation as soon as you finish talking.
 * DP is difficult
 
-## II. Impose Regularity on Seemingly Dissimilar Problem Domains
+## II. The Imposition of Regularity on Seemingly Dissimilar Problem Domains
 
-In a way, DP is a method for standardizing disparate problem domains. Rather than discovering a new meta-method for improvements in each sphere of your life, you can try to make the problem fit a DP shaped mold. If you need to learn node.js for a project at work, you might read about DP and then try to approach the problem like this: 
-
-* Find a practice problem that you can solve in Node
-  - Goal = Use node.js to display the average temperature in London each day on a computer screen
-* Break this goal into little chunks. Steps =
-  - Learn to display "Hello World" on a computer screen
-  - Find a data source for the temperature. Maybe Her Majesty's weather service, or weather.com?
-  - Learn to perform addition and division in Node
-  - Use addition and division operations at the same time to calculate the average temperature
-  - Employ each of the previous steps in a single program
-* Scale up and repeat
-  - Now show a timeseries plot of London's temperature.
-* Carefully observe the code's failures and successes. Make note of approaches that did and didn't work for future use.
-* Be prepared for difficulty
+In a way, DP is a method for standardizing disparate problem domains. Rather than discovering a new meta-method for improvements in each sphere of your life, you can try to make the problem fit a DP shaped mold. So once you've gained proficiency in deliberate practice, you'll start to abstract away the complexity in learning widely different skills. Learning good bowling form in cricket will start to seem rather like the process of figuring out node.js, which in turn will seem similar to developing a humorous personality. 
 
 
 ## III. The Fault Tolerant Temperament
 {% pullquote %}
-Of course, the approach above likely won't work perfectly, and in fact you might discover, midway through, that it will never work at all. And that's fine. Albert Einstein famously quipped, {""If we knew what the hell we were doing, it wouldn't be called research, would it?""} I haven't the foggiest idea how to install or operate node.js, and in fact the procedure above is one that I made up. The point is that a methodical approach is certainly better than flailing about a-systematically. After you approach a few disparate problems like this, you will start to develop a very handy sort of DP-intuition that will serve in very good stead for years to come.
+Of course, deliberate practice likely won't work perfectly the first time you try it, and in fact you might discover, midway through learning a given skill, that it will never work at all. And that's fine---perhaps you need expert instruction, a reliable reference text, or some other boost. Albert Einstein famously quipped, {""If we knew what the hell we were doing, it wouldn't be called research, would it?""} The point is that a methodical approach is certainly better than flailing about a-systematically. After you approach a few disparate problems like this, you will start to develop a very handy sort of DP-intuition that will serve in very good stead for years to come.
 {% endpullquote %}

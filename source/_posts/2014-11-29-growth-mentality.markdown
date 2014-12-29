@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Growth Mentality"
+title: "The Growth Mentality"
 date: 2014-11-12 22:06:36 -0500
 comments: true
 categories: [growth mentality, best practices, foundations]
@@ -48,7 +48,7 @@ Conversely, the scrappy little guys have fought tooth and nail their whole lives
 
 And a funny thing happens as time passes. Before long, the technical advantages of careful study, coachability, and the "I am a beginner" mindset have compounded. The large children, the former stars, are still performing at the same level of fundamentals as they were three seasons ago, and their output has risen slightly, perhaps linearly, as they develop musculature and coordination. But some of the little guys are starting to reach the "hockey stick" region of their player-development curve, and in the space of a few months they can develop into extremely performant players. Invariably, the most valuable players on an Upper Sixth form cricket team---around 18 years of age---are either A) in the 1% of most physically gifted athletes or B) extremely coachable former weaklings. Needless to say, the intersection of A and B is where great bowlers are made. But one cannot change one's innate talents, and since this is a blog about self-actualization, it is best to focus on the latter case for all practical purposes.
 
-## Technique Development
+## IV. Technique Development
 At any rate, the moral of the story is that in childrens' cricket and many other fields, dilligence and malleability trump inborn talent and static advantages. It behooves you to behave like the scrappy little guy, and to avoid at any cost the mentality and behavior of the stagnant former starring batsmen. 
 
 And by way of closing, might your humble correspondent suggest that you avoid flailing about, and instead carefully direct your efforts at self improvement, perhaps by reading the discussion of [deliberate practice]({% post_url 2014-11-14-deliberate-practice %})?

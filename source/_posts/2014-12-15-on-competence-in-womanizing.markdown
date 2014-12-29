@@ -3,7 +3,7 @@ layout: post
 title: "On the Teleology of Womanizing"
 date: 2014-12-15 00:22:59 -0500
 comments: true
-categories: 
+categories: [womanizing, college advice]
 ---
 
 There are many reasons to become a competent womanizer, not least among which is the fact that you are biologically programmed for sex and therefore that the pursuit of women is axiomatically interesting. But there are also some other handy side benefits associated with the attainment of philandering nirvana.
@@ -19,7 +19,7 @@ Imagine this---if you already had a dozen smoking hot Victoria's Secret models, 
 You would probably become less interested in pursuing women for the sake of validating your ego, and more interested in other parts of your life. There would be fewer late nights in loud bars and less money spent on drinks. You might spend more time reading, improving your physical fitness, or developing meaningful relationships with people whose central activity is not gossipy text messaging and the pursuit of attention. 
 
 ## III. To Each His Own
-Naturally, a single good woman could in principle satisfy your needs for female companionship and thereby confer the same second-order benefits as a reliable stable of girls. The method by which you "handle the girl-chasing part of your life" is only very loosely coupled to the reaping of these secondary benefits. But beware---for most young men in the Anglo-American world[^1], a life committed to any one woman is at best suboptimal and at worst hellishly emasculating. 
+Naturally, a single good woman could in principle satisfy your needs for female companionship and thereby confer the same second-order benefits as a reliable stable of girls. The method by which you "handle the girl-chasing part of your life" is only very loosely coupled to the reaping of these secondary benefits. But beware---for most young men in the Anglo-American world,[^1] a life committed to any but the very best of women is suboptimal in the best case and at worst hellishly emasculating. A good woman is very hard to find, so great caution is in order when awarding commitment.
 
 ## IV. Caveat Venator
 Of course, the dozen-models example above is an extreme case. Only a tiny minority of men on earth enjoy that sort of privilege---and most of these are well connected fashion and entertainment industry types, who hold the keys to the industrial-scale attention/social status machinery that females crave so desperately. [Terry Richardson](http://www.highsnobiety.com/2010/01/28/pirelli-calendar-2010-a-full-look-nsfw/#slide-13) (link NSFW) springs to mind. Without inserting yourself in the process by which pretty young women are fêted before the broadest of publics, living like that is a low-probability outcome. But take heart---a stable of between five and ten reliable uncommitted girls (perhaps with temperatures in the 6-9 range) is eminently attainable for any competent man in a major city. Much has been written about how to attain this, often on finer, fatter publications than Bro Kaizen. 
