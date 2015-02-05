@@ -6,7 +6,7 @@ comments: true
 categories: [womanizing, college advice]
 ---
 
-There are many reasons to become a competent womanizer, not least among which is the fact that you are biologically programmed for sex and therefore that the pursuit of women is axiomatically interesting. But there are also some other handy side benefits associated with the attainment of philandering nirvana.
+There are many reasons to become a competent womanizer, not least among which is the fact that you are biologically programmed for sex and therefore that the pursuit of women is inherently interesting. But philandering nirvana also brings some handy side benefits, of which more below.
 
 <!--more-->
 
