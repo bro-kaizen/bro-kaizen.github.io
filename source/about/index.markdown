@@ -30,6 +30,10 @@ You might also be interested in this [explanatory post](http://bro-kaizen.github
 
 **A:** Yes.
 
+* **Q:** Srsly.
+
+**A:** @bro-kaizen. Holla at us.
+
 ##On hyperlinks:
 
 When discussing for-profit endeavors and commercial products, Bro Kaizen aims whenever possible to link to the relevant Wikipedia page instead of the sales/landing page for the product. Some commercial entities are too niche to have their own Wiki page, in which case we aim if possible for a discussion in some neutral and unbiased forum. Failing this, we link to the product's own marketing materials. However, there are no affiliate links anywhere on this site and Bro Kaizen does not make any money from anything mentioned here (or, for that matter, from this site in any capacity whatsoever. It is a labor of love, and we do it because we think our claims are true.)

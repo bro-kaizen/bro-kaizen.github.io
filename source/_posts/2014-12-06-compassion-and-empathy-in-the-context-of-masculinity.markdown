@@ -7,7 +7,7 @@ published: true
 categories: [the examined life, morality, all-rounders]
 ---
 
-When you are young, healthy, strong, and perhaps educated or possessed of a stable and loving family, it's easy to overdevelop the aggressive side of your character. You lift in the gym, watch sports, get loud with your buddies, develop the skill of picking up Anglo-American girls by being a loud and confident knob, and so on. All these things are well and good ingredients of the modern man's existence, but it's also important to pursue balance.
+When you are young, healthy, strong, and perhaps educated or possessed of a stable and loving family, it's easy to overdevelop the aggressive side of your character. You lift in the gym, watch sports, get loud with your buddies, develop the skill of picking up Anglo-American girls by being a loud and confident knob, and so on. All these things are well and good ingredients of the modern man's existence, but balance is also important.
 
 <!--more-->
 
