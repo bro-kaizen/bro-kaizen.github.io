@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://bro-kaizen.github.io/blog/2017/10/07/a-first-principles-derivation-of-ethno-nationalism/</loc>
-    <lastmod>2017-10-07T00:41:16-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://bro-kaizen.github.io/blog/2017/10/06/new-angles-on-the-alt-right/</loc>
     <lastmod>2017-10-06T23:10:31-04:00</lastmod>
     <priority>0.8</priority>
@@ -82,19 +77,19 @@
   </url>
   <url>
     <loc>http://bro-kaizen.github.io/blog/archives/</loc>
-    <lastmod>2017-10-07T00:56:46-04:00</lastmod>
+    <lastmod>2017-10-07T01:00:48-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://bro-kaizen.github.io/</loc>
-    <lastmod>2017-10-07T00:56:46-04:00</lastmod>
+    <lastmod>2017-10-07T01:00:48-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://bro-kaizen.github.io/about/</loc>
-    <lastmod>2017-10-07T00:56:46-04:00</lastmod>
+    <lastmod>2017-10-07T01:00:48-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
