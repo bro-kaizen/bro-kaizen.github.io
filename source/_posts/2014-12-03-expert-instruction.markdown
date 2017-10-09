@@ -25,7 +25,7 @@ Often, a reliable expert's walkthrough will essentially cause you to emulate a r
 
 * Mark Rippetoe's [Starting Strength](http://www.seriouspowerlifting.com/3409/articles/starting-strength) book and videos (for making you strong)
 * The [P90X](http://en.wikipedia.org/wiki/P90X) program of fitness DVD's and diet (for giving you beach muscles)
-* Lynn McDonald's [Body Recomposition](http://www.bodyrecomposition.com) website (for making you skinny ripped)
+* Lyle McDonald's [Body Recomposition](http://www.bodyrecomposition.com) website (for making you skinny ripped)
 * [Juggling for the Complete Klutz]( http://www.amazon.com/Juggling-Complete-Klutz-Anniversary-Edition/dp/1591744482)
 
 Does juggling count as fitness? Definitely not. But it's a great low-risk skill for kids, and this is the book that got me started on the growth mentality and Kaizen, so it has a special place in my heart. And it's really, really good at teaching you how to juggle. Which is incidentally a pretty good starter skill for building momentum on the whole business of learning new things, even if you're a grown man. 
