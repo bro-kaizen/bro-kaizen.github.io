@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deliberate Practice"
-date: 2014-11-14 22:11:59 -0500
+date: 2014-11-29 22:11:59 -0500
 comments: true
 categories: [deliberate practice, foundations, best practices]
 ---

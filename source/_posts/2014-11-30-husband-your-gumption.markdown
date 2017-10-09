@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Husband Your Gumption"
-date: 2014-11-17 01:05:07 -0500
+date: 2014-11-30 01:05:07 -0500
 comments: true
 categories: [gumption, deliberate practice, constrained optimization, best practices]
 ---

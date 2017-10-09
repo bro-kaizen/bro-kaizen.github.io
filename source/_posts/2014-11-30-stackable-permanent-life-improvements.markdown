@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stackable Permanent Life Improvements"
-date: 2014-11-19 16:11:46 -0500
+date: 2014-11-30 16:11:46 -0500
 comments: true
 categories: [foundations, best practices]
 ---

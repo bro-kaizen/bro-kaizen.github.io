@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Compassion and Empathy in the Context of Masculinity"
-date: 2014-11-22 15:03:05 -0500
+date: 2014-12-06 15:03:05 -0500
 comments: true
 published: true
 categories: [the examined life, morality, all-rounders]

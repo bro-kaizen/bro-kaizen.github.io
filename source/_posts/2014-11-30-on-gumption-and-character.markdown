@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Gumption and Character"
-date: 2014-11-16 02:01:53 -0500
+date: 2014-11-30 02:01:53 -0500
 comments: true
 categories: [foundations, gumption, masculinity]
 ---

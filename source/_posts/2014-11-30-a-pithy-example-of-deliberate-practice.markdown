@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deliberate Practice in Action"
-date: 2014-11-15 00:46:52 -0500
+date: 2014-11-30 00:46:52 -0500
 comments: true
 categories: [deliberate practice, best practices, Aubrey Daniels]
 ---

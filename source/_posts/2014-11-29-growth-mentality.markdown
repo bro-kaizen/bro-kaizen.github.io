@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Growth Mentality"
-date: 2014-11-12 22:06:36 -0500
+date: 2014-11-29 22:06:36 -0500
 comments: true
 categories: [growth mentality, best practices, foundations]
 ---
@@ -15,7 +15,7 @@ If this blog can only convince you of a single thing, make it this one. It is vi
 
 In sports, in business, in academics, in the fine art of womanizing, and in matters of character, you must take steps to improve your skills, knowledge, and position. 
 
-But not just any steps---you need to find out the single canonically best way to improve in your discipline, and then focus your efforts on that. The [deliberate practice]({% post_url 2014-11-14-deliberate-practice %}) post talks more about that, and I encourage you to read it. But this post isn't really about any specific meta-problem-solving algorithm. Rather, it is focused on the mindset of seeing _solvable problems_ of design and implementation everywhere you look and _regarding your current reality as a starting point._
+But not just any steps---you need to find out the single canonically best way to improve in your discipline, and then focus your efforts on that. The [deliberate practice](http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice/) post talks more about that, and I encourage you to read it. But this post isn't really about any specific meta-problem-solving algorithm. Rather, it is focused on the mindset of seeing _solvable problems_ of design and implementation everywhere you look and _regarding your current reality as a starting point._
 
 
 {% blockquote %}
@@ -51,4 +51,4 @@ And a funny thing happens as time passes. Before long, the technical advantages 
 ## IV. Technique Development
 At any rate, the moral of the story is that in childrens' cricket and many other fields, dilligence and malleability trump inborn talent and static advantages. It behooves you to behave like the scrappy little guy, and to avoid at any cost the mentality and behavior of the stagnant former starring batsmen. 
 
-And by way of closing, might your humble correspondent suggest that you avoid flailing about, and instead carefully direct your efforts at self improvement, perhaps by reading the discussion of [deliberate practice]({% post_url 2014-11-14-deliberate-practice %})?
+And by way of closing, might your humble correspondent suggest that you avoid flailing about, and instead carefully direct your efforts at self improvement, perhaps by reading the discussion of [deliberate practice](http://bro-kaizen.github.io/blog/2014/11/14/deliberate-practice/)?

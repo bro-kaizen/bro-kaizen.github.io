@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Expert Instruction"
-date: 2014-11-20 00:46:55 -0500
+date: 2014-12-03 00:46:55 -0500
 comments: true
 categories: [best practices, foundations, fitness, hacks]
 ---

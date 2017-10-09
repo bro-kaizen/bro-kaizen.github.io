@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Labour Servility, the Corvée, and the Nature of Civilization"
-date: 2016-05-14 23:17:45 -0900
+date: 2016-05-17 23:17:45 -0900
 comments: true
 categories: 
 published: false

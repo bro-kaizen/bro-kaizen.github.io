@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instruction in Natural Language"
-date: 2014-11-18 14:31:02 -0500
+date: 2014-11-30 14:31:02 -0500
 comments: true
 categories: [college advice, best practices, foundations]
 ---

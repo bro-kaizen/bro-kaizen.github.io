@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Raison d'être"
-date: 2014-11-10 19:48:24 -0500
+date: 2014-11-29 19:48:24 -0500
 comments: true
 categories: [meta, administrative]
 ---
