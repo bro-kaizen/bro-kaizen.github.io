@@ -4,7 +4,7 @@
   <title><![CDATA[Bro Kaizen]]></title>
   <link href="http://bro-kaizen.github.io/atom.xml" rel="self"/>
   <link href="http://bro-kaizen.github.io/"/>
-  <updated>2017-10-09T03:12:41-04:00</updated>
+  <updated>2017-10-09T18:01:35-04:00</updated>
   <id>http://bro-kaizen.github.io/</id>
   <author>
     <name><![CDATA[bro_kaizen]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Civilizations as Aggregations of Personality Characteristics]]></title>
+    <link href="http://bro-kaizen.github.io/blog/2017/10/07/on-the-heritability-of-personality-characteristics/"/>
+    <updated>2017-10-07T02:12:56-04:00</updated>
+    <id>http://bro-kaizen.github.io/blog/2017/10/07/on-the-heritability-of-personality-characteristics</id>
+    <content type="html"><![CDATA[<p>Some peoples have constructed high-trust societies with a middle class (henceforeth abbreviated to the slightly-less-unwieldy <em>HTSWAMC</em>), while others have not. For example, the Japanese, the British, and the Israelis have constructed such societies. Conversely, there exist no recorded examples of Africans constructing one.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A First-Principles Derivation of Ethno-Nationalism]]></title>
